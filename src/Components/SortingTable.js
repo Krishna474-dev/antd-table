@@ -21,7 +21,6 @@ export const SortingTable = () => {
     },
     useSortBy
   );
-  // useSortBy
 
   return (
     <table {...getTableProps}>
